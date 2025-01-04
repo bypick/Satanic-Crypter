@@ -2,6 +2,8 @@
 
 A powerful tool designed to convert EXE files into BAT files with advanced features and a modern GUI interface.
 
+![Satanic Crypter](https://github.com/user-attachments/assets/fadb5e9a-2f2d-4cb6-a98b-c05b78777ac8)
+
 ## Features
 - Modern and professional GUI interface
 - Convert EXE files to BAT format
@@ -10,6 +12,8 @@ A powerful tool designed to convert EXE files into BAT files with advanced featu
 - Modern design with transparent background
 - Interactive buttons with hover effects
 - Progress tracking for file operations
+
+![scan](https://github.com/user-attachments/assets/62d0e21e-545b-4ad7-8835-41ec4e3df5d5)
 
 ## What It Does
 The Satanic Crypter transforms your EXE files into BAT files while:
